@@ -1,0 +1,15 @@
+2 - on/off
+210 - 123 button
+206 - extras
+96 - up
+97 - down
+98 - left
+101 - right
+104 - middle
+88 - back
+121 - menu
+185 - play pause
+7 - vol+
+11 - vol-
+18 - ch+
+16 - ch-
